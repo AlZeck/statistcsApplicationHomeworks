@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\StatisticsFirstAssCSharp\StatisticsFirstAssCSharp\obj\Debug\StatisticsFirstAssCSharp.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\StatisticsFirstAssCSharp\StatisticsFirstAssCSharp\obj\Debug\StatisticsFirstAssCSharp.Form1.resources
+C:\Users\sebas\source\repos\StatisticsFirstAssCSharp\StatisticsFirstAssCSharp\obj\Debug\StatisticsFirstAssCSharp.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\StatisticsFirstAssCSharp\StatisticsFirstAssCSharp\obj\Debug\StatisticsFirstAssCSharp.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\StatisticsFirstAssCSharp\StatisticsFirstAssCSharp\bin\Debug\StatisticsFirstAssignmentCSharp.exe.config
+C:\Users\sebas\source\repos\StatisticsFirstAssCSharp\StatisticsFirstAssCSharp\bin\Debug\StatisticsFirstAssignmentCSharp.exe
+C:\Users\sebas\source\repos\StatisticsFirstAssCSharp\StatisticsFirstAssCSharp\bin\Debug\StatisticsFirstAssignmentCSharp.pdb
+C:\Users\sebas\source\repos\StatisticsFirstAssCSharp\StatisticsFirstAssCSharp\obj\Debug\StatisticsFirstAssignmentCSharp.Properties.Resources.resources
+C:\Users\sebas\source\repos\StatisticsFirstAssCSharp\StatisticsFirstAssCSharp\obj\Debug\StatisticsFirstAssignmentCSharp.exe
+C:\Users\sebas\source\repos\StatisticsFirstAssCSharp\StatisticsFirstAssCSharp\obj\Debug\StatisticsFirstAssignmentCSharp.pdb

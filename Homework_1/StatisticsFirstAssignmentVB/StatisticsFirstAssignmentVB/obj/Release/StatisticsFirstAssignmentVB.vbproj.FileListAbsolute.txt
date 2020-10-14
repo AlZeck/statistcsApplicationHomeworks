@@ -1,0 +1,12 @@
+C:\Users\sebas\source\repos\StatisticsFirstAssignmentVB\StatisticsFirstAssignmentVB\bin\Release\StatisticsFirstAssignmentVB.exe.config
+C:\Users\sebas\source\repos\StatisticsFirstAssignmentVB\StatisticsFirstAssignmentVB\bin\Release\StatisticsFirstAssignmentVB.exe
+C:\Users\sebas\source\repos\StatisticsFirstAssignmentVB\StatisticsFirstAssignmentVB\bin\Release\StatisticsFirstAssignmentVB.pdb
+C:\Users\sebas\source\repos\StatisticsFirstAssignmentVB\StatisticsFirstAssignmentVB\bin\Release\StatisticsFirstAssignmentVB.xml
+C:\Users\sebas\source\repos\StatisticsFirstAssignmentVB\StatisticsFirstAssignmentVB\obj\Release\StatisticsFirstAssignmentVB.vbprojAssemblyReference.cache
+C:\Users\sebas\source\repos\StatisticsFirstAssignmentVB\StatisticsFirstAssignmentVB\obj\Release\StatisticsFirstAssignmentVB.Form1.resources
+C:\Users\sebas\source\repos\StatisticsFirstAssignmentVB\StatisticsFirstAssignmentVB\obj\Release\StatisticsFirstAssignmentVB.Resources.resources
+C:\Users\sebas\source\repos\StatisticsFirstAssignmentVB\StatisticsFirstAssignmentVB\obj\Release\StatisticsFirstAssignmentVB.vbproj.GenerateResource.cache
+C:\Users\sebas\source\repos\StatisticsFirstAssignmentVB\StatisticsFirstAssignmentVB\obj\Release\StatisticsFirstAssignmentVB.vbproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\StatisticsFirstAssignmentVB\StatisticsFirstAssignmentVB\obj\Release\StatisticsFirstAssignmentVB.exe
+C:\Users\sebas\source\repos\StatisticsFirstAssignmentVB\StatisticsFirstAssignmentVB\obj\Release\StatisticsFirstAssignmentVB.xml
+C:\Users\sebas\source\repos\StatisticsFirstAssignmentVB\StatisticsFirstAssignmentVB\obj\Release\StatisticsFirstAssignmentVB.pdb

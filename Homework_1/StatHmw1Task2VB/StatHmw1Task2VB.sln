@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StatHmw1Task2VB", "StatHmw1Task2VB\StatHmw1Task2VB.vbproj", "{ACE83FBE-8FA9-486A-9B52-956D4A03CAC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACE83FBE-8FA9-486A-9B52-956D4A03CAC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE83FBE-8FA9-486A-9B52-956D4A03CAC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE83FBE-8FA9-486A-9B52-956D4A03CAC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE83FBE-8FA9-486A-9B52-956D4A03CAC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CE825A7-AB68-4DD9-8716-45B979CAAE26}
+	EndGlobalSection
+EndGlobal

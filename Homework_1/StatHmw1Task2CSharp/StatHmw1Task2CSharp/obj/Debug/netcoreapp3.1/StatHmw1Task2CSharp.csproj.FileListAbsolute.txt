@@ -1,0 +1,13 @@
+C:\Users\sebas\source\repos\StatHmw1Task2CSharp\StatHmw1Task2CSharp\bin\Debug\netcoreapp3.1\StatHmw1Task2CSharp.exe
+C:\Users\sebas\source\repos\StatHmw1Task2CSharp\StatHmw1Task2CSharp\bin\Debug\netcoreapp3.1\StatHmw1Task2CSharp.deps.json
+C:\Users\sebas\source\repos\StatHmw1Task2CSharp\StatHmw1Task2CSharp\bin\Debug\netcoreapp3.1\StatHmw1Task2CSharp.runtimeconfig.json
+C:\Users\sebas\source\repos\StatHmw1Task2CSharp\StatHmw1Task2CSharp\bin\Debug\netcoreapp3.1\StatHmw1Task2CSharp.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\StatHmw1Task2CSharp\StatHmw1Task2CSharp\bin\Debug\netcoreapp3.1\StatHmw1Task2CSharp.dll
+C:\Users\sebas\source\repos\StatHmw1Task2CSharp\StatHmw1Task2CSharp\bin\Debug\netcoreapp3.1\StatHmw1Task2CSharp.pdb
+C:\Users\sebas\source\repos\StatHmw1Task2CSharp\StatHmw1Task2CSharp\obj\Debug\netcoreapp3.1\StatHmw1Task2CSharp.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\StatHmw1Task2CSharp\StatHmw1Task2CSharp\obj\Debug\netcoreapp3.1\StatHmw1Task2CSharp.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\StatHmw1Task2CSharp\StatHmw1Task2CSharp\obj\Debug\netcoreapp3.1\StatHmw1Task2CSharp.AssemblyInfo.cs
+C:\Users\sebas\source\repos\StatHmw1Task2CSharp\StatHmw1Task2CSharp\obj\Debug\netcoreapp3.1\StatHmw1Task2CSharp.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\StatHmw1Task2CSharp\StatHmw1Task2CSharp\obj\Debug\netcoreapp3.1\StatHmw1Task2CSharp.dll
+C:\Users\sebas\source\repos\StatHmw1Task2CSharp\StatHmw1Task2CSharp\obj\Debug\netcoreapp3.1\StatHmw1Task2CSharp.pdb
+C:\Users\sebas\source\repos\StatHmw1Task2CSharp\StatHmw1Task2CSharp\obj\Debug\netcoreapp3.1\StatHmw1Task2CSharp.genruntimeconfig.cache
