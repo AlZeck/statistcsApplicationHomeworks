@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscreteVarArithmeticMeanTask1", "DiscreteVarArithmeticMeanTask1\DiscreteVarArithmeticMeanTask1.csproj", "{A8E6214B-BED6-4347-985C-95F4669547EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8E6214B-BED6-4347-985C-95F4669547EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E6214B-BED6-4347-985C-95F4669547EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E6214B-BED6-4347-985C-95F4669547EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E6214B-BED6-4347-985C-95F4669547EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F351513-C323-41CC-98D3-8F3CF057DC45}
+	EndGlobalSection
+EndGlobal

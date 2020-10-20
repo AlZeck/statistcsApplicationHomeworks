@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\DiscreteVarArithmeticMeanTask1\DiscreteVarArithmeticMeanTask1\bin\Debug\DiscreteVarArithmeticMeanTask1.exe.config
+C:\Users\sebas\source\repos\DiscreteVarArithmeticMeanTask1\DiscreteVarArithmeticMeanTask1\bin\Debug\DiscreteVarArithmeticMeanTask1.exe
+C:\Users\sebas\source\repos\DiscreteVarArithmeticMeanTask1\DiscreteVarArithmeticMeanTask1\bin\Debug\DiscreteVarArithmeticMeanTask1.pdb
+C:\Users\sebas\source\repos\DiscreteVarArithmeticMeanTask1\DiscreteVarArithmeticMeanTask1\obj\Debug\DiscreteVarArithmeticMeanTask1.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\DiscreteVarArithmeticMeanTask1\DiscreteVarArithmeticMeanTask1\obj\Debug\DiscreteVarArithmeticMeanTask1.RandForm.resources
+C:\Users\sebas\source\repos\DiscreteVarArithmeticMeanTask1\DiscreteVarArithmeticMeanTask1\obj\Debug\DiscreteVarArithmeticMeanTask1.Properties.Resources.resources
+C:\Users\sebas\source\repos\DiscreteVarArithmeticMeanTask1\DiscreteVarArithmeticMeanTask1\obj\Debug\DiscreteVarArithmeticMeanTask1.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\DiscreteVarArithmeticMeanTask1\DiscreteVarArithmeticMeanTask1\obj\Debug\DiscreteVarArithmeticMeanTask1.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\DiscreteVarArithmeticMeanTask1\DiscreteVarArithmeticMeanTask1\obj\Debug\DiscreteVarArithmeticMeanTask1.exe
+C:\Users\sebas\source\repos\DiscreteVarArithmeticMeanTask1\DiscreteVarArithmeticMeanTask1\obj\Debug\DiscreteVarArithmeticMeanTask1.pdb
