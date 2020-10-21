@@ -1,0 +1,13 @@
+C:\Users\sebas\source\repos\Task6NaiveFormulaProblems\Task6NaiveFormulaProblems\bin\Debug\netcoreapp3.1\Task6NaiveFormulaProblems.exe
+C:\Users\sebas\source\repos\Task6NaiveFormulaProblems\Task6NaiveFormulaProblems\bin\Debug\netcoreapp3.1\Task6NaiveFormulaProblems.deps.json
+C:\Users\sebas\source\repos\Task6NaiveFormulaProblems\Task6NaiveFormulaProblems\bin\Debug\netcoreapp3.1\Task6NaiveFormulaProblems.runtimeconfig.json
+C:\Users\sebas\source\repos\Task6NaiveFormulaProblems\Task6NaiveFormulaProblems\bin\Debug\netcoreapp3.1\Task6NaiveFormulaProblems.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\Task6NaiveFormulaProblems\Task6NaiveFormulaProblems\bin\Debug\netcoreapp3.1\Task6NaiveFormulaProblems.dll
+C:\Users\sebas\source\repos\Task6NaiveFormulaProblems\Task6NaiveFormulaProblems\bin\Debug\netcoreapp3.1\Task6NaiveFormulaProblems.pdb
+C:\Users\sebas\source\repos\Task6NaiveFormulaProblems\Task6NaiveFormulaProblems\obj\Debug\netcoreapp3.1\Task6NaiveFormulaProblems.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\Task6NaiveFormulaProblems\Task6NaiveFormulaProblems\obj\Debug\netcoreapp3.1\Task6NaiveFormulaProblems.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\Task6NaiveFormulaProblems\Task6NaiveFormulaProblems\obj\Debug\netcoreapp3.1\Task6NaiveFormulaProblems.AssemblyInfo.cs
+C:\Users\sebas\source\repos\Task6NaiveFormulaProblems\Task6NaiveFormulaProblems\obj\Debug\netcoreapp3.1\Task6NaiveFormulaProblems.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\Task6NaiveFormulaProblems\Task6NaiveFormulaProblems\obj\Debug\netcoreapp3.1\Task6NaiveFormulaProblems.dll
+C:\Users\sebas\source\repos\Task6NaiveFormulaProblems\Task6NaiveFormulaProblems\obj\Debug\netcoreapp3.1\Task6NaiveFormulaProblems.pdb
+C:\Users\sebas\source\repos\Task6NaiveFormulaProblems\Task6NaiveFormulaProblems\obj\Debug\netcoreapp3.1\Task6NaiveFormulaProblems.genruntimeconfig.cache
