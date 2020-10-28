@@ -1,0 +1,10 @@
+C:\Users\sebas\Documents\GitHub\statistcsApplicationHomeworks\Homework_3\CSVReaderTask7\CSVReaderTask7\bin\Debug\CSVReaderTask7.exe.config
+C:\Users\sebas\Documents\GitHub\statistcsApplicationHomeworks\Homework_3\CSVReaderTask7\CSVReaderTask7\bin\Debug\CSVReaderTask7.exe
+C:\Users\sebas\Documents\GitHub\statistcsApplicationHomeworks\Homework_3\CSVReaderTask7\CSVReaderTask7\bin\Debug\CSVReaderTask7.pdb
+C:\Users\sebas\Documents\GitHub\statistcsApplicationHomeworks\Homework_3\CSVReaderTask7\CSVReaderTask7\obj\Debug\CSVReaderTask7.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GitHub\statistcsApplicationHomeworks\Homework_3\CSVReaderTask7\CSVReaderTask7\obj\Debug\CSVReaderTask7.Properties.Resources.resources
+C:\Users\sebas\Documents\GitHub\statistcsApplicationHomeworks\Homework_3\CSVReaderTask7\CSVReaderTask7\obj\Debug\CSVReaderTask7.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GitHub\statistcsApplicationHomeworks\Homework_3\CSVReaderTask7\CSVReaderTask7\obj\Debug\CSVReaderTask7.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GitHub\statistcsApplicationHomeworks\Homework_3\CSVReaderTask7\CSVReaderTask7\obj\Debug\CSVReaderTask7.exe
+C:\Users\sebas\Documents\GitHub\statistcsApplicationHomeworks\Homework_3\CSVReaderTask7\CSVReaderTask7\obj\Debug\CSVReaderTask7.pdb
+C:\Users\sebas\Documents\GitHub\statistcsApplicationHomeworks\Homework_3\CSVReaderTask7\CSVReaderTask7\obj\Debug\CSVReaderTask7.CSVReaderGui.resources
