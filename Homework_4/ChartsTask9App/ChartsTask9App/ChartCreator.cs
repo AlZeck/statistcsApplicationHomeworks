@@ -135,12 +135,12 @@ namespace ChartsTask9App
             var lisx = Elements.Select(row => row[x]).ToList();
             var lisy = Elements.Select(row => row[y]).ToList();
 
-            int startx = (int)lisx.Min();
-            int endx = (int)lisx.Max() + 1;
+            int startx = Convert.ToInt32(lisx.Min());
+            int endx = Convert.ToInt32(lisx.Max()) + 1;
             int stepx = (int)Math.Ceiling((double)(endx - startx) / 10);
 
-            int starty = (int)lisy.Min();
-            int endy = (int)lisy.Max() + 1;
+            int starty = Convert.ToInt32(lisy.Min());
+            int endy = Convert.ToInt32(lisy.Max())+1;
             int stepy = (int)Math.Ceiling((double)(endy - starty) / 10);
 
             BivariateDistribution bd = new BivariateDistribution(startx, endx, stepx, starty, endy, stepy);
@@ -166,8 +166,8 @@ namespace ChartsTask9App
         {
             var lisx = Elements.Select(row => row[x]).ToList();
 
-            int startx = (int)lisx.Min();
-            int endx = (int)lisx.Max() + 1;
+            int startx = Convert.ToInt32(lisx.Min());
+            int endx = Convert.ToInt32(lisx.Max()) + 1;
             int stepx = (int)Math.Ceiling((double)(endx - startx) / 10);
 
             Distribution dx = new Distribution(startx, endx, stepx);
@@ -193,12 +193,12 @@ namespace ChartsTask9App
             var lisx = Elements.Select(row => row[x]).ToList();
             var lisy = Elements.Select(row => row[y]).ToList();
 
-            int startx = (int)lisx.Min();
-            int endx = (int)lisx.Max() + 1;
+            int startx = Convert.ToInt32(lisx.Min());
+            int endx = Convert.ToInt32(lisx.Max()) + 1;
             int stepx = (int)Math.Ceiling((double)(endx - startx) / 10);
 
-            int starty = (int)lisy.Min();
-            int endy = (int)lisy.Max() + 1;
+            int starty = Convert.ToInt32(lisy.Min());
+            int endy = Convert.ToInt32(lisy.Max()) + 1;
             int stepy = (int)Math.Ceiling((double)(endy - starty) / 10);
 
             Distribution dx = new Distribution(startx, endx, stepx);

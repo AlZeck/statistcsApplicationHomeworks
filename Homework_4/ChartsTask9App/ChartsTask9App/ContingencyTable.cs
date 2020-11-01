@@ -66,7 +66,7 @@ namespace ChartsTask9App
             g.DrawLine(pen, x * lenght.Width, 0, x * lenght.Width, base.Height);
 
 
-            for (y = 1; y <= Dist.IntX.Count; y ++)
+            for (y = 1; y <= Dist.IntY.Count; y ++)
             {
                 g.DrawString(Dist.IntY[y - 1].ToString(), headerFont, Brushes.Indigo, 0, y * lenght.Height);
 
