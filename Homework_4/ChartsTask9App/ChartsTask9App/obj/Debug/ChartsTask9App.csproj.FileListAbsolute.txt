@@ -1,0 +1,11 @@
+C:\Users\sebas\Documents\GitHub\statistcsApplicationHomeworks\Homework_4\ChartsTask9App\ChartsTask9App\bin\Debug\ChartsTask9App.exe.config
+C:\Users\sebas\Documents\GitHub\statistcsApplicationHomeworks\Homework_4\ChartsTask9App\ChartsTask9App\bin\Debug\ChartsTask9App.exe
+C:\Users\sebas\Documents\GitHub\statistcsApplicationHomeworks\Homework_4\ChartsTask9App\ChartsTask9App\bin\Debug\ChartsTask9App.pdb
+C:\Users\sebas\Documents\GitHub\statistcsApplicationHomeworks\Homework_4\ChartsTask9App\ChartsTask9App\obj\Debug\ChartsTask9App.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GitHub\statistcsApplicationHomeworks\Homework_4\ChartsTask9App\ChartsTask9App\obj\Debug\ChartsTask9App.Properties.Resources.resources
+C:\Users\sebas\Documents\GitHub\statistcsApplicationHomeworks\Homework_4\ChartsTask9App\ChartsTask9App\obj\Debug\ChartsTask9App.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GitHub\statistcsApplicationHomeworks\Homework_4\ChartsTask9App\ChartsTask9App\obj\Debug\ChartsTask9App.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GitHub\statistcsApplicationHomeworks\Homework_4\ChartsTask9App\ChartsTask9App\obj\Debug\ChartsTask9App.exe
+C:\Users\sebas\Documents\GitHub\statistcsApplicationHomeworks\Homework_4\ChartsTask9App\ChartsTask9App\obj\Debug\ChartsTask9App.pdb
+C:\Users\sebas\Documents\GitHub\statistcsApplicationHomeworks\Homework_4\ChartsTask9App\ChartsTask9App\obj\Debug\ChartsTask9App.CSVReaderGui.resources
+C:\Users\sebas\Documents\GitHub\statistcsApplicationHomeworks\Homework_4\ChartsTask9App\ChartsTask9App\obj\Debug\ChartsTask9App.ChartCreator.resources
